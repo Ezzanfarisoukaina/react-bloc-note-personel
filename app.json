@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Bloc Note Personnel",
+    "slug": "bloc-note-personnel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.blocnote.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "31ee36bf-bc2f-41ce-b0f3-ecf2b6118767"
+      }
+    },
+    "owner": "ezzanfari-soukaina"
+  }
+}
