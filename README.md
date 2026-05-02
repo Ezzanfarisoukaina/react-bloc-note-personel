@@ -117,18 +117,5 @@ Tous les composants dans `/components` sont indépendants et configurables via p
 
 ---
 
-## 💡 Idées d'extension
 
-- [ ] Export PDF des notes
-- [ ] Partager une note
-- [ ] Tags/catégories
-- [ ] Rappels avec notifications locales
-- [ ] Synchronisation cloud (Firebase / Supabase)
-- [ ] Widgets home screen (Expo Widgets)
-- [ ] Chiffrement des notes sensibles
 
----
-
-## 👩‍💻 Auteur
-
-Développé avec React Native + Expo · Architecture propre et extensible.
